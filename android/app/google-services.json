@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598228373796",
+    "project_id": "to-do-af76b",
+    "storage_bucket": "to-do-af76b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598228373796:android:f134c0a56bb8ac3f6123b1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMglN_br6LYGw9K6Vz2wFmDysjUGt4ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
