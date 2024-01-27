@@ -158,6 +158,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "msh_checkbox",
+      "rootUri": "file:///C:/Users/Kris/AppData/Local/Pub/Cache/hosted/pub.dev/msh_checkbox-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///C:/Users/Kris/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.2",
       "packageUri": "lib/",
@@ -230,7 +236,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-01-21T08:30:53.158372Z",
+  "generated": "2024-01-27T09:49:40.784106Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
